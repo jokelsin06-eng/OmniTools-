@@ -1,0 +1,7 @@
+{
+  "name": "OmniTool Platform",
+  "description": "A high-performance, scalable web platform featuring over 1000 utility tools for developers, writers, and students. Instant search, clean UI, and lightning-fast client-side processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
